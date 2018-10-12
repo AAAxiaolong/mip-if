@@ -40,3 +40,6 @@ mip-if 判断模块显示
 必选项：是
 默认：show  
 类型：string
+
+## 注意事项
+可进行逻辑非操作，如：referrer="!baidu.com" 即来源不为百度
